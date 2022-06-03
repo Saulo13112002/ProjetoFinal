@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: aqua;
+    background-color: #FF69B4;
 }
 
 #login{
@@ -13,7 +13,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .card{
-    background-color:green;
+    background-color:azure;
     padding: 40px;
     border-radius: 3;
     width: 280;
@@ -29,7 +29,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     content: "";
     width: 75px;
     height: 2px;
-    background-color: rgb(252, 4, 4);
+    background-color: rgb(204, 15, 15);
     display: block;
     margin-top: -18px;
     margin-left: -6px;
@@ -62,7 +62,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     height: 50px;
     background-color: coral;
     border: none;
-    color: crimson;
+    color: rgb(220, 133, 20);
     margin: 11px 0;
 }
 
